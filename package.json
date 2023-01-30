@@ -1,7 +1,7 @@
 {
   "name": "memory-game",
   "private": true,
-  "homepage": "https://JebGy.github.io/memoria-game",
+  "homepage": "http://JebGy.github.io/memoria-game",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
